@@ -85,3 +85,4 @@ fabric.properties
 .externalNativeBuild
 .cxx
 local.properties
+src/main/kotlin/Config.kt
